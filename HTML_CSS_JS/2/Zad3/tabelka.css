@@ -1,0 +1,35 @@
+﻿.komorkaczerwona{
+    background-color:red;
+}
+.komorkaniebieska {
+    background-color: blue;
+}
+.komorkazolta {
+    background-color: yellow;
+}
+.komorkazielona {
+    background-color: green;
+}
+.zainteresowania a{
+    color:red;
+}
+
+.zainteresowania a:link {
+    color: red;
+    text-decoration-line:underline;
+}
+
+    .zainteresowania a:visited {
+        color: green;
+        text-decoration-line: underline;
+    }
+
+    .zainteresowania a:hover {
+        color: blue;
+        text-decoration-line: overline;
+    }
+
+    .zainteresowania a:active {
+        color: blue;
+        text-decoration-line:none;
+    }

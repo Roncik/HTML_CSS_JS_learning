@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.obram1 {
+    margin:auto;
+    width: 250px;
+    height: 200px;
+    background-color: gray;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.obram2 {
+    margin: 10px;
+    width: 226px;
+    height: 176px;
+    background-color: gray;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.obram3 {
+    margin: 10px;
+    margin-left: 12px;
+    margin-top: 12px;
+    width: 200px;
+    height: 150px;
+    background-color: gray;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    
+    box-shadow:  white 0 0 0 4px, black 0 0 0 5px;
+}
+
+    .obram3 p {
+        padding-top: 25px;
+        padding-bottom: 15px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-weight: bold;
+        font-size: 150%;
+        letter-spacing: 3px;
+    }

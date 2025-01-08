@@ -1,0 +1,181 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+table{
+    margin:auto
+}
+
+#obramowanie {
+    margin: auto;
+    color: black;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: center;
+    padding: 30px;
+    background-color: yellow;
+    border-top-style: dotted;
+    border-top-color: red;
+    border-top-width: 8px;
+    border-left-style: double;
+    border-left-color: blue;
+    border-left-width: 8px;
+    border-right-style: double;
+    border-right-color: blue;
+    border-right-width: 8px;
+    border-bottom-style: dashed;
+    border-bottom-color: green;
+    border-bottom-width: 8px;
+    border-radius: 10%;
+}
+
+#linia1 {
+    margin-top:30px;
+    margin-bottom: 0px;
+    border-width: 2px;
+    border-color: red;
+}
+#linia2 {
+    margin: 0px;
+    border-width: 2px;
+    border-color: green;
+}
+#linia3 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    border-width: 2px;
+    border-color: blue;
+}
+
+#tabela2 {
+    font-family: Calibri;
+    border-spacing: 0px;
+}
+
+    #tabela2 tr:nth-child(1) {
+        text-align: center;
+        background-color: cornsilk;
+        margin-bottom: 0px;
+    }
+
+#tabela2 tr:nth-child(2) {
+    text-align:center;
+    background-color: deepskyblue;
+    color: darkblue;
+}
+
+    #tabela2 tr:nth-child(2) td {
+        border-left-style: solid;
+        border-left-color: red;
+        border-left-width: 2px;
+        border-right-style: solid;
+        border-right-color: red;
+        border-right-width: 2px;
+        border-bottom-style: solid;
+        border-bottom-color: red;
+        border-bottom-width: 3px;
+        font-weight: bold;
+    }
+
+    #tabela2 tr:nth-child(2) td:nth-child(1) {
+        border-left-style: double;
+        border-left-color: red;
+        border-left-width: 3px;
+        border-right-style: solid;
+        border-right-color: red;
+        border-right-width: 2px;
+        border-bottom-style: solid;
+        border-bottom-color: red;
+        border-bottom-width: 3px;
+        font-weight: bold;
+    }
+
+        #tabela2 tr:nth-child(2) td:nth-child(3) {
+            border-left-style: solid;
+            border-left-color: red;
+            border-left-width: 2px;
+            border-right-style: double;
+            border-right-color: red;
+            border-right-width: 3px;
+            border-bottom-style: solid;
+            border-bottom-color: red;
+            border-bottom-width: 3px;
+            font-weight: bold;
+        }
+
+    .dane{
+        text-align: center;
+        background-color: gray;
+        color: black;
+    }
+
+        .dane td {
+            border-left-style: solid;
+            border-left-color: green;
+            border-left-width: 2px;
+            border-right-style: solid;
+            border-right-color: green;
+            border-right-width: 2px;
+            border-bottom-style: solid;
+            border-bottom-color: green;
+            border-bottom-width: 3px;
+        }
+
+            .dane td:nth-child(1) {
+                border-left-style: double;
+                border-left-color: green;
+                border-left-width: 3px;
+                border-right-style: solid;
+                border-right-color: green;
+                border-right-width: 2px;
+                border-bottom-style: solid;
+                border-bottom-color: green;
+                border-bottom-width: 3px;
+            }
+
+            .dane td:nth-child(3) {
+                border-left-style: solid;
+                border-left-color: green;
+                border-left-width: 2px;
+                border-right-style: double;
+                border-right-color: green;
+                border-right-width: 3px;
+                border-bottom-style: solid;
+                border-bottom-color: green;
+                border-bottom-width: 3px;
+            }
+
+        #tabela2 tr:nth-child(5) td {
+            border-bottom-style: double;
+            border-bottom-color: green;
+            border-bottom-width: 4px;
+        }
+
+
+    #tabela2 td {
+        padding: 5px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+#head {
+    border-top-style: double;
+    border-top-color: blue;
+    border-top-width: 3px;
+    border-left-style: double;
+    border-left-color: blue;
+    border-left-width: 3px;
+    border-right-style: double;
+    border-right-color: blue;
+    border-right-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: blue;
+    border-bottom-width: 2px;
+    font-weight: bold;
+    font-size:150%;
+    color:green;
+    font-style:oblique;
+}
+

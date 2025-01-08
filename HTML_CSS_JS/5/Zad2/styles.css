@@ -1,0 +1,27 @@
+body {
+  background-color: gray;
+  font-family: Arial;
+}
+
+.A {
+  margin: auto;
+  width: 400px;
+  height: 100px;
+  background-color: yellow;
+  border: 2px solid red;
+  display: flex;
+  justify-content: center;
+}
+
+.B {
+  margin: auto;
+  width: 400px;
+  height: 100px;
+  background-color: white;
+  border: 2px solid blue;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: -40px;
+  left: 60px;
+}/*# sourceMappingURL=styles.css.map */

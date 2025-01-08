@@ -1,0 +1,49 @@
+body {
+    background-image: url("image.png"); 
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    color: black;
+    font-size: 200%;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.p1 {
+    color: black;
+    font-size: 300%;
+    text-align: justify;
+    text-transform: uppercase;
+}
+
+.p2 {
+    color: red;
+    font-size: 200%;
+    text-align: justify;
+    word-spacing: 50px;
+}
+
+.p3 {
+    color: black;
+    font-weight: bold;
+    font-size: 200%;
+    text-align: justify;
+    letter-spacing: 20px;
+}
+
+.p4 {
+    color: black;
+    font-size: 100%;
+    text-align: justify;
+    text-transform: capitalize;
+    text-decoration-line: line-through;
+    text-decoration-color: green;
+    text-decoration-style: double;
+}

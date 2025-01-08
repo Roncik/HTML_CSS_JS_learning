@@ -1,0 +1,65 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section1{
+
+    font-weight: bold;
+}
+
+.section1 .t1{
+    color:blue;
+}
+
+.section1 .t2 {
+    color: red;
+    text-decoration-line: underline;
+}
+
+.section2 p {
+    color: red;
+    margin:auto;
+}
+
+.section2 .p2 {
+    margin-left: 30px;
+    color: green;
+}
+
+.section2 ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+}
+
+.section2 li {
+    color: blue;
+}
+
+.p3 {
+    margin-top: 10px;
+}
+.p3 a {
+    color: red;
+}
+
+    .p3 a:link {
+        color: red;
+        text-decoration-line: underline;
+    }
+
+    .p3 a:visited {
+        color: green;
+        text-decoration-line: underline;
+    }
+
+    .p3 a:hover {
+        color: blue;
+        text-decoration-line: overline;
+    }
+
+    .p3 a:active {
+        color: blue;
+        text-decoration-line: none;
+    }
+

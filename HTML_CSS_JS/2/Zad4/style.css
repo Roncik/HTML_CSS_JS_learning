@@ -1,0 +1,65 @@
+body {
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+header {
+   
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-size: 200%;
+    color: white;
+   opacity: 0.8;
+}
+
+    header h1 {
+        background-image: url('spring.png');
+        text-shadow: 4px 4px 6px green;
+    }
+
+section {
+    margin: 20px;
+}
+
+
+
+.season-info {
+    background-color: white;
+    margin-left: 10px;
+}
+
+    
+
+#WiosnaList {
+        list-style-image: url("spring-icon.png");
+    }
+
+header h2 {
+    font-size: 200%;
+    background-image: url('summer.png');
+    text-shadow: 4px 4px 6px yellow;
+}
+
+#LatoList {
+    list-style-image: url("summer-icon.png");
+}
+
+header h3 {
+    font-size: 200%;
+    background-image: url('autumn.png');
+    text-shadow: 4px 4px 6px red;
+}
+
+#JesienList {
+    list-style-image: url("autumn-icon.png");
+}
+
+header h4 {
+    font-size: 200%;
+    background-image: url('winter.png');
+    text-shadow: 4px 4px 6px blue;
+}
+
+#ZimaList {
+    list-style-image: url("winter-icon.png");
+}

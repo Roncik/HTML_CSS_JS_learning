@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  font-family: Arial;
+}
+
+#outer {
+  margin: auto;
+  display: flex;
+  width: 400px;
+  height: 50px;
+  color: white;
+}
+
+#outer .box {
+  padding: 40px;
+  display: inline-flex;
+  align-items: center;
+  align-content: center;
+}
+
+#outer .box:nth-child(1) {
+  background-color: rgb(65, 64, 64);
+}
+
+#outer .box:nth-child(2) {
+  background-color: gray;
+}
+
+#outer .box:nth-child(3) {
+  background-color: lightgray;
+}/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+div {
+    margin:auto;
+    text-align: left;
+}
+
+    div:first-child {
+        font-weight: bold;
+        color: red;
+    }
+
+    div:last-child {
+        font-weight: bold;
+        color: green;
+    }
+
+    div:nth-child(even) {
+        font-style: italic;
+        color: gray;
+    }
+
+    div:nth-child(odd) {
+        text-transform: lowercase;
+        color: blue;
+    }
+
+    div:nth-child(3n) {
+        text-decoration: line-through wavy purple;
+    }
+
+    div:hover {
+        font-size: 200%;
+    }
+
+    div:active {
+        font-size: 200%;
+        color: black;
+        text-decoration: none;
+    }

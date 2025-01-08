@@ -1,0 +1,50 @@
+body {
+    background-color: #F0F0F0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+section1 h2 {
+    color: green;
+    text-align: justify;
+}
+
+section2 h2 {
+    color: blue;
+    text-shadow: 2px 2px cyan;
+    text-align: center;
+    line-height: 1.8;
+}
+
+section2 p {
+    text-align: center;
+    line-height: 50px;
+}
+
+.p2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+section3 {
+    color: #666;
+}
+
+section3 h2 {
+    color: red;
+}
+
+.div1{
+    background-color:white;
+}
+
+section3 p {
+    color: gray;
+    font-style: italic;
+}
+
+section3 a {
+    color: blue;
+    text-decoration: underline;
+    font-size: 0.9em;
+}

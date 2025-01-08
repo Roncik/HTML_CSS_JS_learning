@@ -1,0 +1,67 @@
+body {
+    background-color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+
+header h1{
+    letter-spacing: 8px;
+    color: blue;
+}
+
+div {
+    margin: auto;
+    width: 300px;
+    height: 175px;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px 10px grey;
+    margin-bottom: 30px;
+}
+
+.imienazwisko {
+    color: white;
+    background-color: blue;
+    text-align: left;
+    font-size: 100%;
+    letter-spacing: 3px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.adres1 {
+    color: black;
+    text-align: right;
+    font-size: 80%;
+    letter-spacing: normal;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+}
+.adres2 {
+    color: black;
+    text-align: right;
+    font-size: 70%;
+    letter-spacing: normal;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.email {
+    color: blue;
+    text-align: left;
+    font-size: 100%;
+    letter-spacing: normal;
+    margin-top: 35px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.telefon {
+    color: black;
+    text-align: left;
+    font-size: 70%;
+    letter-spacing: normal;
+    margin-top: 5px;
+    margin-left: 5px;
+}
